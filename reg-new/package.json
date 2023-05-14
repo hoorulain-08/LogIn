@@ -1,7 +1,7 @@
 {
   "name": "reg-new",
   "version": "1.0.0",
-  "homepage": "https://hoorulain-08.github.io/LogIn",
+  "homepage": "https://hoorulain-08.github.io/LogIn/",
   "scripts": {
     "build": "webpack --mode production",
     "predeploy": "yarn run build",
