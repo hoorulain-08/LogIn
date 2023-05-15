@@ -4,7 +4,7 @@
   "homepage": "https://hoorulain-08.github.io/LogIn/",
   "scripts": {
     "build": "webpack --mode production",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
       "deploy": "gh-pages -d build",
     "build:dev": "webpack --mode development",
     "build:start": "cd dist && PORT=2023 npx serve",
